@@ -2,7 +2,7 @@
   "name": "rikterbeek/magento-module-test2",
   "type": "library",
   "description": "magento module test2",
-  "keywords": ["rikterbeek""],
+  "keywords": ["rikterbeek"],
   "homepage": "https://github.com/rikterbeek/magento-module-test2",
   "license": "Apache-2.0",
   "require": {
